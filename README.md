@@ -1,7 +1,7 @@
 # Course-material
 Material for the weekend python teaching course
 
-In each folder you can find the project brief and relevant datasets you might need. The projects are designed for students to explore the economics themes and improve their Python techniques together. There are 6 different economic research themes:
+In each folder you can find the project brief and relevant datasets you might need. The projects are designed for students to be able to explore the economics subject while also improving their Python knowledge and techniques. There are 6 different economic research themes:
 
 1. Happiness and GDP
 2. Schelling’s segregation model (simulation)
